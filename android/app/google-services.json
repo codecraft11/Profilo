@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "734985929061",
+    "project_id": "final-year-project-fd15d",
+    "storage_bucket": "final-year-project-fd15d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734985929061:android:44c75f35743fcfeaa0218c",
+        "android_client_info": {
+          "package_name": "com.example.business_card_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734985929061-mii6t9i05ueq2fjg3gee08pcrf401rm0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.business_card_app",
+            "certificate_hash": "b54e25d11ee2207858a13df9c1fea6120d5395b9"
+          }
+        },
+        {
+          "client_id": "734985929061-qfs33ag5im3vb8jrn68ht5e38oku9hop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCud2tS3yadaVT1YqmscSBmdVT_hEZz5Ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734985929061-qfs33ag5im3vb8jrn68ht5e38oku9hop.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "734985929061-jv7bmrm2k4f7di2vb8eekcqsfhm30ccr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.businessCardApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

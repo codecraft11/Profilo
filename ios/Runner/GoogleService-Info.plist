@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>734985929061-jv7bmrm2k4f7di2vb8eekcqsfhm30ccr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.734985929061-jv7bmrm2k4f7di2vb8eekcqsfhm30ccr</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>734985929061-mii6t9i05ueq2fjg3gee08pcrf401rm0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAtoukPyDSbE2O_iOgI3Y2i4SpbQCAbMfk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>734985929061</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.businessCardApp</string>
+	<key>PROJECT_ID</key>
+	<string>final-year-project-fd15d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>final-year-project-fd15d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:734985929061:ios:29bfaf88860ca4aca0218c</string>
+</dict>
+</plist>

@@ -1,0 +1,11 @@
+{
+    "cmake.configureOnOpen": false,
+    "workbench.colorCustomizations": {
+        "[Material Theme Darker]": {
+            "statusBar.debuggingBackground": "#212121"
+        },
+        "activityBar.background": "#4A2308",
+        "titleBar.activeBackground": "#68310B",
+        "titleBar.activeForeground": "#FEFAF7"
+    }
+}
